@@ -20,7 +20,7 @@ body {
 /* Navigation bar */
 
 .header{
-  background: linear-gradient(-45deg, #e4b7e8, #efcaf2, #cf97d3);
+  background: linear-gradient(-45deg, #e4b7e8, #e1a8e6, #d28ed7);
   background-size: 400% 400%;
   animation: gradientShift 4s ease-in-out infinite;
   display: flex;
